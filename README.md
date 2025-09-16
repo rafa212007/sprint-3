@@ -148,7 +148,7 @@ A arquitetura pode ser facilmente expandida para incluir sensores adicionais (lu
 
 🔗 **Repositório Git hub:** [https://github.com/rafa212007/sprint-3.git]
 
-postma usado: https://rafinhaacarmona-8827768.postman.co/workspace/Rafael-carmona's-Workspace~1d0e5f81-4f93-4496-8336-903a367dee49/collection/47624777-9a02d345-1091-46e0-b8ed-06721c12f49a?action=share&source=copy-link&creator=47624777
+Postman usado: https://rafinhaacarmona-8827768.postman.co/workspace/Rafael-carmona's-Workspace~1d0e5f81-4f93-4496-8336-903a367dee49/collection/47624777-9a02d345-1091-46e0-b8ed-06721c12f49a?action=share&source=copy-link&creator=47624777
 
 
 
