@@ -36,6 +36,8 @@ graph TD;
     FIWARE --> User;
 ```
 
+ ![arquitetura2](https://github.com/user-attachments/assets/6c615b9f-c605-499e-8fbb-aff7f0e80bd5)
+
 ### 📸 Ilustração do Projeto
  <img width="1919" height="909" alt="Captura de tela 2025-09-16 182014" src="https://github.com/user-attachments/assets/0d2f0d28-4323-4ab7-95be-84d460f4e920" />
 
