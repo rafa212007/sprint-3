@@ -142,6 +142,6 @@ A arquitetura pode ser facilmente expandida para incluir sensores adicionais (lu
 
 🔗 **Simulação no Wokwi:** [https://wokwi.com/projects/442272409857155073]
 
-🔗 **Repositório Git hub:** []
+🔗 **Repositório Git hub:** [https://github.com/rafa212007/sprint-3.git]
 
 
