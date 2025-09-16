@@ -138,7 +138,7 @@ A arquitetura pode ser facilmente expandida para incluir sensores adicionais (lu
 
 **Curso:** Engenharia de Software – FIAP
 
-🔗 **Vídeo do projeto no YouTube:** [link aqui]
+🔗 **Vídeo do projeto no YouTube:** [https://youtu.be/U8COodh2gUU]
 
 🔗 **Simulação no Wokwi:** [https://wokwi.com/projects/442272409857155073]
 
