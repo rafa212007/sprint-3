@@ -128,9 +128,9 @@ A arquitetura pode ser facilmente expandida para incluir sensores adicionais (lu
 
 **Desenvolvido por:**
 
-  - Rafael Augusto Carmona
-  - Eduardo Tolentino
-  - Enzo Hort Ramos
+  - Rafael Augusto Carmona RM:563758
+  - Eduardo Tolentino RM:562169
+  - Enzo Hort Ramos RM:561872
 
 **Professor:**
 
